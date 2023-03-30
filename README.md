@@ -2,9 +2,7 @@
 Soy un Desarrollador Frontend.
 
 ### Más sobre mi a traves de mi [portfolio](https://gonzalomendezstefano.vercel.app)
-- 🌱 Estoy aprendiendo 
-  Programación en UNSAM 
-- 📫 Cómo contactarme
+## 📫 Cómo contactarme
   gonzalomendezst01@gmail.com 
 
 
