@@ -1,7 +1,7 @@
 ### Hola 👋, Soy Gonzalo
 Estudiante de Programación y Desarrollador Frontend.
 
-### Más sobre mi a traves de mi [portfolio](https://gonzalomendezstefano.vercel.app)
+## Más sobre mi a traves de mi [portfolio](https://gonzalomendezstefano.vercel.app)
 ## 📫 Cómo contactarme
   gonzalomendezst01@gmail.com 
 
