@@ -1,5 +1,5 @@
 ### Hola 👋, Soy Gonzalo
-Soy un Desarrollador Frontend.
+Estudiante de Programación y Desarrollador Frontend.
 
 ### Más sobre mi a traves de mi [portfolio](https://gonzalomendezstefano.vercel.app)
 ## 📫 Cómo contactarme
