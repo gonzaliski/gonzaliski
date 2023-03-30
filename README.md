@@ -10,6 +10,4 @@ Estudiante de Programación y Desarrollador Frontend.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzaliski&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gonzaliski)  
-
 ![Profile views](https://gpvc.arturio.dev/gonzaliski)  
